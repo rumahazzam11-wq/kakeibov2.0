@@ -11,3 +11,4 @@ window.GOOGLE_CLIENT_ID = '155010185585-4a2mnm88etindmvpg6e9det7400cragq.apps.go
 // 4. Go to "Credentials" and create "OAuth 2.0 Client ID"
 // 5. Add your app URL to "Authorized JavaScript origins"
 // 6. Copy the Client ID and paste it above
+
